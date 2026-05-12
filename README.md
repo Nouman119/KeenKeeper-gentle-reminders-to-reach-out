@@ -1,16 +1,30 @@
-# React + Vite
+# KeenKeeper 🌿 — Gentle Reminders to Reach Out
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**KeenKeeper** is a thoughtful relationship management tool designed to help you maintain meaningful connections with the people who matter most. In a busy world, it acts as your personal "shelf" for nurturing friendships, ensuring you never lose touch with mentors, colleagues, or loved ones.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Key Features
 
-## React Compiler
+* **Smart Contact Tracking:** Automatically tracks the days since your last interaction with each friend and highlights those who are "Overdue" based on your personal connection goals.
+* **Quick Check-In Logging:** Log interactions (Calls, Texts, or Video Chats) with a single click, featuring real-time feedback and smooth UI updates.
+* **Flexible Relationship Management:** Keep your dashboard clean by snoozing reminders for a later date or archiving connections you want to keep on the shelf without active reminders.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project is built with a modern, high-performance tech stack focused on a seamless user experience:
+
+* **Frontend:** [React.js](https://reactjs.org/) (Functional Components, Context API)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/) & [daisyUI](https://daisyui.com/)
+* **Routing:** [React Router Dom](https://reactrouter.com/)
+* **Icons:** [Lucide React](https://lucide.dev/)
+* **Notifications:** [React Hot Toast](https://react-hot-toast.com/)
+* **Build Tool:** [Vite](https://vitejs.dev/)
+
+---
+
+## 📦 Live link
+
+Live Link: https://keenkeeper-gentle-reminders-to-reach.netlify.app/
